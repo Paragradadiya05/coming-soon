@@ -2,7 +2,7 @@
   "apps" : [
     {
       "name"      : "proxel",
-      "script"    : "PORT=4000 react-scripts start",
+      "script"    : "PORT=3335 react-scripts start",
       "interpreter": "none",
       "args": "serve -p 3335"
     }
