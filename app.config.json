@@ -4,7 +4,7 @@
       "name"      : "proxel",
       "script"    : "PORT=4000 react-scripts start",
       "interpreter": "none",
-      "args": "serve -p 4000"
+      "args": "serve -p 3335"
     }
   ]
 }
